@@ -16,7 +16,7 @@ As a versatile professional with expertise in cybersecurity analysis, specifical
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Cybersecurity Analyst Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -47,7 +47,7 @@ As a versatile professional with expertise in cybersecurity analysis, specifical
 | Project Tracking Tools (Trello, Asana, MS Project) | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
