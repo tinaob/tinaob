@@ -32,19 +32,19 @@ As a versatile professional with expertise in cybersecurity analysis, specifical
 |-----------------------------------------------|----------------------------|
 | Test Planning and Strategy         | <a href="https://google.com">Detection Lab</a>|
 | Manual Testing (Functional, Regression) | <a href="https://google.com">Detection Lab</a>|
-| Automation Testing (Selenium, JUnit, TestNG)         | SOC Automation Lab|
-|Bug Reporting and Tracking (Jira, Bugzilla)     | SOC Automation Lab|
-| API Testing (Postman, SoapUI)                  | SOC Automation Lab|
-| Continuous Integration (Jenkins) | SOC Automation Lab|
+| Automation Testing (Selenium, JUnit, TestNG)         | |
+|Bug Reporting and Tracking (Jira, Bugzilla)     | |
+| API Testing (Postman, SoapUI)                  | |
+| Continuous Integration (Jenkins) | |
 
 | Project Management Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Agile and Scrum Methodologies          | <a href="https://google.com">Detection Lab</a>|
 | Risk and Issue Managementn | <a href="https://google.com">Detection Lab</a>|
-| Gantt Charts, Critical Path Method         | SOC Automation Lab|
-| Budgeting and Resource Allocation      | SOC Automation Lab|
-| Communication and Stakeholder Engagement                  | SOC Automation Lab|
-| Project Tracking Tools (Trello, Asana, MS Project) | SOC Automation Lab|
+| Gantt Charts, Critical Path Method         | |
+| Budgeting and Resource Allocation      | |
+| Communication and Stakeholder Engagement                  | |
+| Project Tracking Tools (Trello, Asana, MS Project) | |
 
 ## Tools
 
