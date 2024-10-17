@@ -30,8 +30,8 @@ As a versatile professional with expertise in cybersecurity analysis, specifical
 
 | Software Testing Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Test Planning and Strategy         | <a href="https://google.com">Detection Lab</a>|
-| Manual Testing (Functional, Regression) | <a href="https://google.com">Detection Lab</a>|
+| Test Planning and Strategy         | |
+| Manual Testing (Functional, Regression) | |
 | Automation Testing (Selenium, JUnit, TestNG)         | |
 |Bug Reporting and Tracking (Jira, Bugzilla)     | |
 | API Testing (Postman, SoapUI)                  | |
@@ -39,8 +39,8 @@ As a versatile professional with expertise in cybersecurity analysis, specifical
 
 | Project Management Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Agile and Scrum Methodologies          | <a href="https://google.com">Detection Lab</a>|
-| Risk and Issue Managementn | <a href="https://google.com">Detection Lab</a>|
+| Agile and Scrum Methodologies          | |
+| Risk and Issue Managementn | |
 | Gantt Charts, Critical Path Method         | |
 | Budgeting and Resource Allocation      | |
 | Communication and Stakeholder Engagement                  | |
