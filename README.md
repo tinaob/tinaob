@@ -58,12 +58,15 @@ A structured event schedule webpage built with HTML tables and CSS styling for t
 
 | Category | Tools |
 |---|---|
-| SIEM & Monitoring | Splunk, Snort |
-| Security Testing | Nessus, OWASP ZAP, Metasploit, Kali Linux, Wireshark |
-| IAM & Access | RBAC, IGA, Least-Privilege, Azure AD |
-| Scripting | Python, Bash, SQL, JavaScript, HTML, CSS |
+| SIEM & Monitoring | Splunk, Snort, Log Analysis, Brute Force Detection, Anomaly Detection |
+| Security Testing | Nessus, OWASP ZAP, Metasploit, Kali Linux, Wireshark, Nmap, VirusTotal API |
+| Cloud Security | AWS (IAM · S3 · boto3 · CLI), Cloud Security Auditing, Misconfiguration Detection |
+| IAM & Access | RBAC, IGA, Least-Privilege, Azure AD, MFA Enforcement, Access Key Rotation |
+| Security Skills | Phishing Detection, Vulnerability Scanning, Incident Response, Attack Surface Analysis, Risk Classification |
+| Scripting & Dev | Python, Bash, SQL, JavaScript, HTML, CSS, pandas, regex, boto3, requests |
+| Dev Tools | Git, GitHub, VS Code |
 | Project & Agile | Jira, Confluence, MS Project, Asana |
-| Compliance | ISO 27001, PCI-DSS, GDPR, NIST |
+| Compliance | ISO 27001, PCI-DSS, GDPR, NIST CSF, AWS Security Best Practices |
 
 ---
 
