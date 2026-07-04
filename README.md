@@ -73,7 +73,7 @@ A structured event schedule webpage built with HTML tables and CSS styling for t
 | Dev Tools | Git, GitHub, VS Code |
 | Project & Agile | Jira, Confluence, MS Project, Asana |
 | Compliance | ISO 27001, PCI-DSS, GDPR, NIST CSF, AWS Security Best Practices |
-| Threat Intelligence | MITRE ATT&CK | IOC Extraction | OTX API |
+| Threat Intelligence | MITRE ATT&CK, IOC Extraction, OTX API |
 
 ---
 
