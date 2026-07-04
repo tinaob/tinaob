@@ -43,6 +43,12 @@ reports. Designed to mirror entry-level penetration testing workflows.
 ###  [Cloud Security Misconfiguration Scanner](https://github.com/tinaob/cloud-security-scanner)
 A Python tool that connects to a real AWS account using boto3 and audits it for critical security misconfigurations — including IAM users without MFA, root account usage, exposed S3 buckets, and old access keys. Tested against a live AWS environment with real findings documented.
 
+###  [AI Threat Intelligence Platform](https://github.com/tinaob/ai-threat-intelligence)
+A Python tool that fetches real-time threat intelligence from AlienVault OTX, 
+deduplicates feeds, generates AI-powered analyst summaries using Claude AI, 
+maps threats to MITRE ATT&CK techniques, extracts IOCs, and produces a 
+professional HTML dashboard for daily security briefings.
+
 ##   Web Development Projects
 
  [Fashion Blog — HTML](https://github.com/tinaob/nyfw-webpage-html)
@@ -67,6 +73,7 @@ A structured event schedule webpage built with HTML tables and CSS styling for t
 | Dev Tools | Git, GitHub, VS Code |
 | Project & Agile | Jira, Confluence, MS Project, Asana |
 | Compliance | ISO 27001, PCI-DSS, GDPR, NIST CSF, AWS Security Best Practices |
+| Threat Intelligence | MITRE ATT&CK | IOC Extraction | OTX API |
 
 ---
 
