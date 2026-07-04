@@ -69,11 +69,11 @@ A structured event schedule webpage built with HTML tables and CSS styling for t
 | Cloud Security | AWS (IAM · S3 · boto3 · CLI), Cloud Security Auditing, Misconfiguration Detection |
 | IAM & Access | RBAC, IGA, Least-Privilege, Azure AD, MFA Enforcement, Access Key Rotation |
 | Security Skills | Phishing Detection, Vulnerability Scanning, Incident Response, Attack Surface Analysis, Risk Classification |
-| Scripting & Dev | Python, Bash, SQL, JavaScript, HTML, CSS, pandas, regex, boto3, requests |
+| Threat Intelligence | MITRE ATT&CK, IOC Extraction, AlienVault OTX API, Threat Feed Analysis, AI-Powered Summarization |
+| Scripting & Dev | Python, Bash, SQL, JavaScript, HTML, CSS, pandas, regex, boto3, requests, anthropic |
 | Dev Tools | Git, GitHub, VS Code |
 | Project & Agile | Jira, Confluence, MS Project, Asana |
 | Compliance | ISO 27001, PCI-DSS, GDPR, NIST CSF, AWS Security Best Practices |
-| Threat Intelligence | MITRE ATT&CK, IOC Extraction, OTX API |
 
 ---
 
